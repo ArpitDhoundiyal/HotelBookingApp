@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "882303843527",
+    "firebase_url": "https://hotelbookingapp-9cee4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hotelbookingapp-9cee4",
+    "storage_bucket": "hotelbookingapp-9cee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882303843527:android:c4bc3b267990a0bccb92e2",
+        "android_client_info": {
+          "package_name": "com.vishnurajan.hotelbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7cyL_F_eUT3HIoQFA649kXy3qg3b3i08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
